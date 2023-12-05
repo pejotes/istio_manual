@@ -1,4 +1,4 @@
-site_name: "IstioHandbook"
+site_name: "Istio Handbook"
 site_dir: public
 docs_dir: ./docs
 theme:

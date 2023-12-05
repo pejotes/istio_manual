@@ -9,8 +9,6 @@
 - [ ] Detach and stow inner forestay
 - [ ] Move staysail halyard to mast
 - [ ] Remove mainsail from mast track
-- [ ] Remove and stow spinnaker boom
-- [ ] Remove and stow Rodkicker
 - [ ] Replace lazy jacks with messenger lines
 - [ ] Remove and stow boom using main halyard and topping lift
 - [ ] Remove aft solar panels
@@ -28,4 +26,3 @@
 - [ ] Secure mast to bow support and solar arch
 - [ ] Tie shrouds etc to mast
 - [ ] Hoist anchor
-- [ ] Hoist windvane servo rudder

@@ -2,7 +2,7 @@
 
 Welcome to the _Istio_ handbook.
 
-![Lille Oe](./assets/boat.png)
+![Istio](./assets/boat.png)
 
 This document cover both the systems and procedures as used aboard _Istio_.
 

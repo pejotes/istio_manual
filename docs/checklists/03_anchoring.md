@@ -1,10 +1,8 @@
 # Anchoring
 
-_Lille Ø_ is equipped with three anchors:
+_Istio_ is equipped with three anchors:
 
-* **Rocna Vulcan 15** bow anchor with 40m of 8mm chain
-* **Bruce 15kg** stern anchor with 5m of 8mm chain and 45m of webbing line
-* **Fortress Fx-11** kedge anchor
+* **Bruce 9kg** stern anchor with 5m of 8mm chain and 45m of webbing line
 
 ## Bow anchor
 
